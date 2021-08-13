@@ -13,6 +13,13 @@
   
   
 ## WAR generated at build. It combines the server and client projects.
-  - gradlew assembleServerAndClient 
+  - gradlew assembleServerAndClient
+
+### Production Tomcat url
+  - http://localhost:8080/server-1/
+
+### Development url
+  - http://localhost:3000 - vue app
+  - http://localhost:8080 - grails rest api
 
 
