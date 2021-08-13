@@ -2,9 +2,9 @@
 
 
 ## Folders info
-build/  - war file for tomcat
-client/ - client
-server/ - grails rest api
+  - build/  - war file for tomcat
+  - client/ - client
+  - server/ - grails rest api
 
 
 ##To launch the Grails application, run the following command:
